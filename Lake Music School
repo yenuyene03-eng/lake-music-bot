@@ -1,0 +1,7 @@
+cd "C:\Users\User\Desktop\Lake Music School"
+git init
+git add .
+git commit -m "Lake Music School Bot"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/lake-music-bot.git
+git push -u origin main
